@@ -1,0 +1,14 @@
+{
+  "name": "sinchcall",
+  "version": "1.0.0",
+  "description": "app to call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sinch-rtc": "^1.4.5"
+  }
+}
